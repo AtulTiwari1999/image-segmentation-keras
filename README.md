@@ -14,9 +14,11 @@ Implememnation of various Deep Image Segmentation models in keras.
 ## Models 
 
 * FCN8
+* FCN16
 * FCN32
 * Simple Segnet
-* VGG Segnet 
+* VGG Segnet
+* VGG 16
 * U-Net
 * VGG U-Net
 
@@ -26,6 +28,7 @@ Implememnation of various Deep Image Segmentation models in keras.
 
 * Keras 2.0
 * opencv for python
+* seaborn
 * Theano 
 
 ```shell
