@@ -1,8 +1,10 @@
 
-import numpy as np
+import numpy
 import cv2
 import glob
 import itertools
+import numpy as np
+import tensorflow as tf
 
 
 def getImageArr( path , width , height , imgNorm="sub_mean" , odering='channels_first' ):
